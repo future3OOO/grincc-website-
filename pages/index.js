@@ -18,7 +18,9 @@ function Index(props) {
                     <ul className="pl-4 pb-4">
                         <li><UserIcon /> anynomous</li>
                         <li><UserIcon /> mcmmike</li>
-                        <li><UserIcon /> future3000x</li>
+                        <li><UserIcon /> future3000</li>
+                       <li><UserIcon /> trab</li>
+                       <li><UserIcon /> trinitron</li>
                         <li><UserIcon /> mwgrin_fr</li>
                     </ul>
                 </div>
